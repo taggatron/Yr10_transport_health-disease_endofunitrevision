@@ -15,7 +15,7 @@ const foundationFlashcards = [
     {
         id: 3,
         question: "Draw a fully labelled diagram of the heart.",
-        answer: "Fully labelled diagram of the heart below:",
+        answer: "",
         answerImage: "heart-diagram.svg",
         answerImageAlt: "Fully labelled diagram of the heart"
     },
